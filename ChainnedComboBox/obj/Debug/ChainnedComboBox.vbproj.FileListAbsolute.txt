@@ -1,0 +1,13 @@
+C:\Users\diofanta\AppData\Local\Temporary Projects\ChainnedComboBox\bin\Debug\ChainnedComboBox.exe.config
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\bin\Debug\dbWilayah.mdf
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\bin\Debug\dbWilayah_log.ldf
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\bin\Debug\ChainnedComboBox.exe.config
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\bin\Debug\ChainnedComboBox.exe
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\bin\Debug\ChainnedComboBox.pdb
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\bin\Debug\ChainnedComboBox.xml
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\obj\Debug\ChainnedComboBox.frmMain.resources
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\obj\Debug\ChainnedComboBox.Resources.resources
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\obj\Debug\ChainnedComboBox.vbproj.GenerateResource.Cache
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\obj\Debug\ChainnedComboBox.exe
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\obj\Debug\ChainnedComboBox.xml
+F:\diofanta\Document\Visual Studio 2015\Projects\Projects VBNet\ChainnedComboBox\ChainnedComboBox\obj\Debug\ChainnedComboBox.pdb
